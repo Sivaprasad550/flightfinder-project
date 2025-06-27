@@ -47,13 +47,6 @@ The following is a high-level implementation plan for the AirTracker project:
 5.	Test the application.
 6.	Deploy the application.
 
-### Team Members:
-The following are the team members and their roles:
-* 	Pankaj Ajmera: Frontend development & Backend development
-* 	Sudhanshu Tripathi: Frontend development & Backend development
-* 	Rishit Gupta: Frontend development & Backend development
-* 	Akshat Maheswari: Frontend development & Backend development
-
 ### Resources Required:
 The following resources are required for the project:
 * 	Frontend technologies: HTML, CSS, JavaScript, and React
